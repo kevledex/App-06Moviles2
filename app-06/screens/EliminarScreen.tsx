@@ -13,7 +13,7 @@ export default function EliminarScreen() {
         Alert.alert("Peligro", "Deseas borrar?", [
             {
                 text: "Borrar",
-                onPress: () => remove(ref(db, 'autos/' + placa),)
+                onPress: () => remove(ref(d b, 'autos/' + placa),)
             },
             {
                 text: "Cancelar"
